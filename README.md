@@ -2,7 +2,7 @@
 
 Simple Game of Life implementation for Linux as a beginner project. Raylib and g++ are the only dependencies.
 
-To build, execute "make" command. The executable file will be called "gol".
+To build, run make. This will produce an executable named 'gol'.
 
 Here are the controls:
 
